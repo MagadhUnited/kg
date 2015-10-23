@@ -1,1 +1,2 @@
-http://www.examnext.com/img/favicon.ico
+http://www.examnext.com/img/favicon.ico //make upto this quality for small icon
+http://www.examnext.com/assets/designs/img/logo.png
